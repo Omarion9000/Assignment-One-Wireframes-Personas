@@ -1,0 +1,37 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: hwb(196 2% 26%);
+    color: white;
+    text-align: center;
+}
+
+
+h1 {
+    color: white;
+    margin-top: 20px;
+}
+
+
+p {
+    margin: 15px 0;
+}
+
+
+img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+
